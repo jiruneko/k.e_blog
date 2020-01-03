@@ -1,10 +1,7 @@
-Djangoで作成したブログアプリです。
+A blog application created with Django.
 
-Djangoがインストールされている端末で
-./manage.py
-のファイルが保存されている【k_e_blog】のディレクトリで
+On the terminal where Django is installed, in the [k_e_blog] directory where the ./manage.py file is stored
 
 ./manage.py runserver
 
-上記のコマンドを入力し
-指定されたURL（ローカルホスト）で見ることが可能です。
+Enter the above command and you can see it at the specified URL (local host).
