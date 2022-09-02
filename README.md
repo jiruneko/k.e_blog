@@ -4,4 +4,4 @@ On the terminal where Django is installed, in the [k_e_blog] directory where the
 
 $python3 manage.py runserver
 
-Enter the above command and you can see it at the specified URL (local host).
+Enter the above command and you can see it at the specified URL (localhost).
